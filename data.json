@@ -57,13 +57,14 @@
                             {"time": "4:30pm", "event": "Presentations - LISB 217"},
                             {"time": "6:00pm", "event": "Dinner and party - LISB atrium"}]}
                   ],
-    "location_logo": "",
+    "location_logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Uof_Oregon_logo.png",
     "location_name": "HEDCO & Lewis Integrative Science Building",
-    "location_url":"",
+    "location_url":"https://www.uoregon.edu/",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.7904286414496!2d-123.07349328448944!3d44.04638437910987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e3b358838b7%3A0x439e4cc209f79915!2sLewis+Integrative+Science+Building!5e0!3m2!1sen!2sus!4v1487200224163",
     "sponsors": [{"name": "UO Graduate School", "url": "https://gradschool.uoregon.edu/", "logo":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Uof_Oregon_logo.png"},
-                 {"name": "UO VPRI", "url": "http://research.uoregon.edu/", "logo":"http://research.uoregon.edu/sites/default/files/OVPRI_Formal-Square.jpg"},
-                 {"name": "UO Department of Psychology", "url": "https://psychology.uoregon.edu/", "logo":"http://pages.uoregon.edu/caspages/cas-design-toolkit-images/CAS-Natural%20Sciences/PSY/PSY%20PNG%20files/PSY-name.png"}],
+                 {"name": "UO LCNI", "url": "http://lcni.uoregon.edu/", "logo":"http://pages.uoregon.edu/dcosme/LCNI_160px.png"},
+                 {"name": "UO VPRI", "url": "http://research.uoregon.edu/", "logo":"http://pages.uoregon.edu/dcosme/OVPRI_200px.jpg"},
+                 {"name": "UO Department of Psychology", "url": "https://psychology.uoregon.edu/", "logo":"http://pages.uoregon.edu/dcosme/UOPSY_200px.png"}],
     "organizers": ["Dani Cosme", "Brendan Cullen", "Krista DeStasio", "Kate Mills", "Nandi Vijayakumar"]
 
 }
